@@ -1,7 +1,8 @@
 - 👋 Hi, I’m **Pavan Sree Pichuka**.
 - 👀 I’m interested in **DevOps Engineer** and **Full Stack Web Development**.
-- 💞️ I’m looking to collaborate on **building infrastructure** for an application, developing an application.
-- 🔭 I'm currently working on building infrastructure for a three-tier application using **Terraform**.
+- 💞️ I’m looking to collaborate on **building a Logistics Website** using **AngularJS**.
+- 🌟 Worked on **Terraform** which can build a basic infrastructure for an application on AWS cloud using **Terraform**.
+- 🔭 I'm currently working on building an end-to-end web application.
 - 📫 How to reach me ppavansree@gmail.com
 - 🏅 Get to know more about my certifications https://github.com/Pavan-12062000/Certifications
 <!---
