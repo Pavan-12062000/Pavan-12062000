@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Pavan-12062000/Pavan-12062000/assets/144853994/70f05216-c40a-4104-bbc3-0774a5a394da"><br>
-  <br><a>Hi there, I'm Pavan.</a>
+  <br><a href="https://github.com/Pavan-12062000">Hi there, I'm Pavan! 👋</a>
 </p>
 
 ***
@@ -9,14 +9,31 @@
   Graduate Student at the University of Ottawa 🎓 | Ex-Infosian 👨🏻‍💻 | DevOps Dynamo 🚀 | Orchestrating Excellence with Kubernetes, Docker, Terraform, Ansible 🐳🛠️ | CI/CD Maestro with Jenkins 🚀 | GitHub :octocat:
 </p>
 
-- 👀 I’m interested in **DevOps Engineer**.
-- 🔭 I'm currently learning **Kubernetes**.
-- 🌟 Worked on **Terraform** which can build a basic infrastructure for an application on AWS cloud using **Terraform**.
-- 🔭 Experienced in developing and maintaining **CI/CD pipelines** using **Jenkins**.
-- 📫 How to reach me ppavansree@gmail.com.
+---
 
-- 🏅 Get to know more about my certifications https://github.com/Pavan-12062000/Certifications
-<!---
-Pavan-12062000/Pavan-12062000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+- 👀 I’m interested in becoming a **DevOps Engineer**.
+- 🔭 Currently learning **Kubernetes** to enhance my orchestration skills.
+- 🌟 Developed a basic infrastructure for applications on AWS cloud using **Terraform**.
+- 🔧 Experienced in building and maintaining **CI/CD pipelines** with **Jenkins**.
+- 📫 You can reach me at [ppavansree@gmail.com](mailto:ppavansree@gmail.com).
+
+### Skills
+- **Cloud Platforms:** AWS
+- **Containerization:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, AWS Cloud Formation
+- **CI/CD Tools:** Jenkins, GitHub Actions
+- **Programming Languages:** Python, Node JS, Express JS, TypeScript, JavaScript
+- **Frontend Technologies:** Angular, HTML, CSS
+- **Database:** PostgreSQL, Microsoft SQL, Oracle, MongoDB
+- **Agile/Scrum:** JIRA, Confluence, SDLC
+
+### Certifications
+- 🏅 Explore my certifications [here](https://github.com/Pavan-12062000/Certifications).
+
+### Projects
+- 🌐 [Logistics Website](https://github.com/Pavan-12062000/logistics-website): A web application for managing logistics operations.
+
+---
+
+Feel free to connect or collaborate! Let's orchestrate excellence together. 🚀
