@@ -21,9 +21,9 @@
 ### Skills
 - **Cloud Platforms:** AWS
 - **Containerization:** Docker, Kubernetes
-- **Infrastructure as Code:** Terraform, AWS Cloud Formation
+- **Infrastructure as Code:** Terraform, AWS CloudFormation
 - **CI/CD Tools:** Jenkins, GitHub Actions
-- **Programming Languages:** Python, Node JS, Express JS, TypeScript, JavaScript
+- **Programming Languages:** Python, Node.js, Express.js, TypeScript, JavaScript
 - **Frontend Technologies:** Angular, HTML, CSS
 - **Database:** PostgreSQL, Microsoft SQL, Oracle, MongoDB
 - **Agile/Scrum:** JIRA, Confluence, SDLC
@@ -33,6 +33,8 @@
 
 ### Projects
 - 🌐 [Logistics Website](https://github.com/Pavan-12062000/logistics-website): A web application for managing logistics operations.
+- 🛠️ **Cost Optimization using Lambda**: Developed an AWS Lambda function that automates cost-saving tasks by identifying stale EBS snapshots and unused S3 buckets. It deletes old snapshots associated with inactive instances and sends notifications about inactive S3 buckets via Amazon SNS and SQS to reduce unnecessary storage costs.
+- ⚙️ **Customized EC2 Instance Infrastructure**: Created a customized infrastructure using Terraform and AWS Cloud Services to deploy a Python application. This project demonstrates proficiency in setting up scalable cloud infrastructure while automating the deployment process.
 
 ---
 
